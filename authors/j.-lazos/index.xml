@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Lazos | R. G. Nascimento</title>
+    <link>/authors/j.-lazos/</link>
+      <atom:link href="/authors/j.-lazos/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Lazos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J. Lazos</title>
+      <link>/authors/j.-lazos/</link>
+    </image>
+    
+    <item>
+      <title>System architecture for secure and rapid development, deployment and management of analytics and software systems</title>
+      <link>/patent/system_architecture_rapid_development_analytics/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <guid>/patent/system_architecture_rapid_development_analytics/</guid>
+      <description>&lt;p&gt;US Patent App. 15 / 338,839, 2018&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. N. Iankoulski | R. G. Nascimento</title>
+    <link>/authors/a.-n.-iankoulski/</link>
+      <atom:link href="/authors/a.-n.-iankoulski/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. N. Iankoulski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. N. Iankoulski</title>
+      <link>/authors/a.-n.-iankoulski/</link>
+    </image>
+    
+    <item>
+      <title>Autonomous Hybrid Analytics Modeling Platform</title>
+      <link>/patent/autonomous_hybrid_analytics/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/patent/autonomous_hybrid_analytics/</guid>
+      <description>&lt;p&gt;US Patent App. 16 / 258,489&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated development environment for analytic authoring</title>
+      <link>/patent/integrated_development_analytic_authoring/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>/patent/integrated_development_analytic_authoring/</guid>
+      <description>&lt;p&gt;US Patent 10,296,296, 2019&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systems and methods for optimizing graphics processing for rapid large data visualization</title>
+      <link>/patent/systems_optimizing_graphics_large_data/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      <guid>/patent/systems_optimizing_graphics_large_data/</guid>
+      <description>&lt;p&gt;US Patent 9,978,114, 2018&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-aware and self-registering software &amp; analytics platform components</title>
+      <link>/patent/self-aware_software_analytics/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <guid>/patent/self-aware_software_analytics/</guid>
+      <description>&lt;p&gt;US Patent App. 15 / 338,886, 2018&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System architecture for secure and rapid development, deployment and management of analytics and software systems</title>
+      <link>/patent/system_architecture_rapid_development_analytics/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <guid>/patent/system_architecture_rapid_development_analytics/</guid>
+      <description>&lt;p&gt;US Patent App. 15 / 338,839, 2018&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

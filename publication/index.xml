@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | R. G. Nascimento</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Learning Drone Dynamics with Physics-informed Neural Networks</title>
+      <link>/publication/2020-scitech-nascimento-et-al/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-scitech-nascimento-et-al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satellite Image Classification and Segmentation with Transfer Learning</title>
+      <link>/publication/2020-scitech-sat-nascimento/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-scitech-sat-nascimento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fleet prognosis with physics-informed recurrent neural networks</title>
+      <link>/publication/2019-iwdhm-nascimento-viana/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-iwdhm-nascimento-viana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-informed Machine Learning for Damage Accumulation</title>
+      <link>/publication/2019-aiaa-nascimento-viana/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-aiaa-nascimento-viana/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
