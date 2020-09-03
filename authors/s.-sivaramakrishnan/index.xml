@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Sivaramakrishnan | R. G. Nascimento</title>
+    <title>S. Sivaramakrishnan on Renato G. Nascimento</title>
     <link>/authors/s.-sivaramakrishnan/</link>
-      <atom:link href="/authors/s.-sivaramakrishnan/index.xml" rel="self" type="application/rss+xml" />
-    <description>S. Sivaramakrishnan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>S. Sivaramakrishnan</title>
-      <link>/authors/s.-sivaramakrishnan/</link>
-    </image>
+    <description>Recent content in S. Sivaramakrishnan on Renato G. Nascimento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/s.-sivaramakrishnan/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Autonomous Hybrid Analytics Modeling Platform</title>
       <link>/patent/autonomous_hybrid_analytics/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
       <guid>/patent/autonomous_hybrid_analytics/</guid>
-      <description>&lt;p&gt;US Patent App. 16 / 258,489&lt;/p&gt;
-</description>
+      <description>US Patent App. 16 / 258,489</description>
     </item>
     
   </channel>
