@@ -3,19 +3,19 @@
   <channel>
     <title>Renato G. Nascimento</title>
     <link>/</link>
-    <description>Recent content on Renato G. Nascimento</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Renato G. Nascimento</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Renato G. Nascimento</title>
+      <link>/</link>
+    </image>
     
     <item>
       <title>Cumulative Damage Modeling with Recurrent Neural Networks</title>
       <link>/publication/2020-aiaa-nascimento-viana/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2020-aiaa-nascimento-viana/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Quadcopter Control Optimization through Machine Learning</title>
       <link>/publication/2020-scitech-nascimento-et-al/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2020-scitech-nascimento-et-al/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Satellite Image Classification and Segmentation with Transfer Learning</title>
       <link>/publication/2020-scitech-sat-nascimento/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2020-scitech-sat-nascimento/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>PINN - Physics-informed neural networks</title>
       <link>/project/pinn/</link>
       <pubDate>Wed, 02 Oct 2019 15:41:42 -0400</pubDate>
-      
       <guid>/project/pinn/</guid>
       <description></description>
     </item>
@@ -51,25 +48,24 @@
       <title>Autonomous Hybrid Analytics Modeling Platform</title>
       <link>/patent/autonomous_hybrid_analytics/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>/patent/autonomous_hybrid_analytics/</guid>
-      <description>US Patent App. 16 / 258,489</description>
+      <description>&lt;p&gt;US Patent App. 16 / 258,489&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Integrated development environment for analytic authoring</title>
       <link>/patent/integrated_development_analytic_authoring/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>/patent/integrated_development_analytic_authoring/</guid>
-      <description>US Patent 10,296,296, 2019</description>
+      <description>&lt;p&gt;US Patent 10,296,296, 2019&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Fleet prognosis with physics-informed recurrent neural networks</title>
       <link>/publication/2019-iwdhm-nascimento-viana/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2019-iwdhm-nascimento-viana/</guid>
       <description></description>
     </item>
@@ -78,27 +74,27 @@
       <title>Systems and methods for optimizing graphics processing for rapid large data visualization</title>
       <link>/patent/systems_optimizing_graphics_large_data/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>/patent/systems_optimizing_graphics_large_data/</guid>
-      <description>US Patent 9,978,114, 2018</description>
+      <description>&lt;p&gt;US Patent 9,978,114, 2018&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Self-aware and self-registering software &amp; analytics platform components</title>
       <link>/patent/self-aware_software_analytics/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>/patent/self-aware_software_analytics/</guid>
-      <description>US Patent App. 15 / 338,886, 2018</description>
+      <description>&lt;p&gt;US Patent App. 15 / 338,886, 2018&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>System architecture for secure and rapid development, deployment and management of analytics and software systems</title>
       <link>/patent/system_architecture_rapid_development_analytics/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>/patent/system_architecture_rapid_development_analytics/</guid>
-      <description>US Patent App. 15 / 338,839, 2018</description>
+      <description>&lt;p&gt;US Patent App. 15 / 338,839, 2018&lt;/p&gt;
+</description>
     </item>
     
   </channel>

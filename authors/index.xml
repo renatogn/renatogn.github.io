@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Renato G. Nascimento</title>
+    <title>Authors | Renato G. Nascimento</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Renato G. Nascimento</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
     
     <item>
       <title>Felipe A. C. Viana</title>
       <link>/authors/felipe-a.-c.-viana/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>/authors/felipe-a.-c.-viana/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Renato G. Nascimento</title>
       <link>/authors/renato-g.-nascimento/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>/authors/renato-g.-nascimento/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Kajetan Fricke</title>
       <link>/authors/kajetan-fricke/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/authors/kajetan-fricke/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>A. K. Subramaniyan</title>
       <link>/authors/a.-k.-subramaniyan/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/a.-k.-subramaniyan/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>A. N. Iankoulski</title>
       <link>/authors/a.-n.-iankoulski/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/a.-n.-iankoulski/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>F. N. de Paula</title>
       <link>/authors/f.-n.-de-paula/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/f.-n.-de-paula/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>R. G. Nascimento</title>
       <link>/authors/r.-g.-nascimento/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/r.-g.-nascimento/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>S. Sivaramakrishnan</title>
       <link>/authors/s.-sivaramakrishnan/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>/authors/s.-sivaramakrishnan/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>J. Lazos</title>
       <link>/authors/j.-lazos/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/j.-lazos/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>N. C. Kumar</title>
       <link>/authors/n.-c.-kumar/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/n.-c.-kumar/</guid>
       <description></description>
     </item>
@@ -105,10 +96,11 @@
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/authors/admin/</guid>
-      <description>Accomplished, enthusiastic consultant and entrepreneur with over 15 years of research and development experience in software for consumer and industrial applications.
-After my PhD, I look forward to joining an organization that values leadership, performance, teamwork, and results.</description>
+      <description>&lt;p&gt;Accomplished, enthusiastic consultant and entrepreneur with over 15 years of research and development experience in software for consumer and industrial applications.&lt;/p&gt;
+
+&lt;p&gt;After my PhD, I look forward to joining an organization that values leadership, performance, teamwork, and results.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
