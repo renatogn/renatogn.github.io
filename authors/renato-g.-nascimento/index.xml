@@ -5,12 +5,20 @@
     <link>/authors/renato-g.-nascimento/</link>
       <atom:link href="/authors/renato-g.-nascimento/index.xml" rel="self" type="application/rss+xml" />
     <description>Renato G. Nascimento</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Renato G. Nascimento</title>
       <link>/authors/renato-g.-nascimento/</link>
     </image>
+    
+    <item>
+      <title>A tutorial on solving ordinary differential equations using Python and hybrid physics-informed neural network</title>
+      <link>/publication/2020-eaai-nascimento-et-al/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-eaai-nascimento-et-al/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cumulative Damage Modeling with Recurrent Neural Networks</title>
