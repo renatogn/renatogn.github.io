@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andre V. Zuben | Renato G. Nascimento</title>
+    <link>/authors/andre-v.-zuben/</link>
+      <atom:link href="/authors/andre-v.-zuben/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andre V. Zuben</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Andre V. Zuben</title>
+      <link>/authors/andre-v.-zuben/</link>
+    </image>
+    
+    <item>
+      <title>Visualizing corrosion in automobiles using generative adversarial networks</title>
+      <link>/publication/2020-phm-zuben-et-al/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-phm-zuben-et-al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

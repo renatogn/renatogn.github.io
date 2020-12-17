@@ -5,12 +5,36 @@
     <link>/authors/felipe-a.-c.-viana/</link>
       <atom:link href="/authors/felipe-a.-c.-viana/index.xml" rel="self" type="application/rss+xml" />
     <description>Felipe A. C. Viana</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Felipe A. C. Viana</title>
       <link>/authors/felipe-a.-c.-viana/</link>
     </image>
+    
+    <item>
+      <title>Quadcopter Soft Vertical Landing Control with Hybrid Physics-informed Machine Learning</title>
+      <link>/publication/2021-scitech-fricke-et-al/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-scitech-fricke-et-al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating model inadequacy in ordinary differential equations with physics-informed neural networks</title>
+      <link>/publication/2020-cs-viana-et-al/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-cs-viana-et-al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing corrosion in automobiles using generative adversarial networks</title>
+      <link>/publication/2020-phm-zuben-et-al/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-phm-zuben-et-al/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A tutorial on solving ordinary differential equations using Python and hybrid physics-informed neural network</title>

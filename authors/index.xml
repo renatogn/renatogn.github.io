@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Felipe A. C. Viana</title>
       <link>/authors/felipe-a.-c.-viana/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/felipe-a.-c.-viana/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Kajetan Fricke</title>
       <link>/authors/kajetan-fricke/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/kajetan-fricke/</guid>
       <description></description>
     </item>
@@ -31,8 +31,32 @@
     <item>
       <title>Renato G. Nascimento</title>
       <link>/authors/renato-g.-nascimento/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/renato-g.-nascimento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arinan Dourado</title>
+      <link>/authors/arinan-dourado/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/arinan-dourado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yigit Yucesan</title>
+      <link>/authors/yigit-yucesan/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yigit-yucesan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andre V. Zuben</title>
+      <link>/authors/andre-v.-zuben/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/andre-v.-zuben/</guid>
       <description></description>
     </item>
     
