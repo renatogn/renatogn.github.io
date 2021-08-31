@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Chetan S. Kulkarni</title>
+      <link>/authors/chetan-s.-kulkarni/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/chetan-s.-kulkarni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Felipe A. C. Viana</title>
       <link>/authors/felipe-a.-c.-viana/</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/authors/felipe-a.-c.-viana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matteo Corbetta</title>
+      <link>/authors/matteo-corbetta/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/matteo-corbetta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renato G. Nascimento</title>
+      <link>/authors/renato-g.-nascimento/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/renato-g.-nascimento/</guid>
       <description></description>
     </item>
     
@@ -25,14 +49,6 @@
       <link>/authors/kajetan-fricke/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/kajetan-fricke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Renato G. Nascimento</title>
-      <link>/authors/renato-g.-nascimento/</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/renato-g.-nascimento/</guid>
       <description></description>
     </item>
     

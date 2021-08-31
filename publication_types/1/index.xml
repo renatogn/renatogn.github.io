@@ -5,12 +5,20 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Usage-based Lifing of Lithium-Ion Battery with Hybrid Physics-Informed Neural Networks</title>
+      <link>/publication/2021-aviation-nascimento-et-al/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-aviation-nascimento-et-al/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quadcopter Soft Vertical Landing Control with Hybrid Physics-informed Machine Learning</title>
