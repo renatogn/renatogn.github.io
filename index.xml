@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Renato G. Nascimento</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Renato G. Nascimento</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Hybrid physics-informed neural networks for lithium-ion battery modeling and prognosis</title>
+      <link>/publication/2021-jps-nascimento-et-al/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-jps-nascimento-et-al/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Usage-based Lifing of Lithium-Ion Battery with Hybrid Physics-Informed Neural Networks</title>

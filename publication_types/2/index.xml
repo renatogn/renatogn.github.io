@@ -5,12 +5,20 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Hybrid physics-informed neural networks for lithium-ion battery modeling and prognosis</title>
+      <link>/publication/2021-jps-nascimento-et-al/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-jps-nascimento-et-al/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimating model inadequacy in ordinary differential equations with physics-informed neural networks</title>
